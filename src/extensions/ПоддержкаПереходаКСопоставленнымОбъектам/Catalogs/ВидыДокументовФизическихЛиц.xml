@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Catalog uuid="e92ab424-6f63-49f8-86f8-471cbaffd96a">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ВидыДокументовФизическихЛиц" category="Object">
+				<xr:TypeId>efd1e9a6-5764-4ff5-b926-68ecde4cd814</xr:TypeId>
+				<xr:ValueId>9ca6e480-082b-44a7-9064-89d67c0465c4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ВидыДокументовФизическихЛиц" category="Ref">
+				<xr:TypeId>9a2966be-9e06-4c0f-bcee-0f59a34df139</xr:TypeId>
+				<xr:ValueId>d3426015-dc5d-45a0-9d75-d070fea779a6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ВидыДокументовФизическихЛиц" category="Selection">
+				<xr:TypeId>a92a33a0-68a1-4089-a596-7ac4def4d2ef</xr:TypeId>
+				<xr:ValueId>11130875-e991-4c97-aedf-6a40ccd0a8a5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ВидыДокументовФизическихЛиц" category="List">
+				<xr:TypeId>0c489ad7-8e73-4529-965e-fa05d2dabacc</xr:TypeId>
+				<xr:ValueId>8ef578d8-6056-4ee8-aea3-2832badad6c1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ВидыДокументовФизическихЛиц" category="Manager">
+				<xr:TypeId>07706381-a195-4076-97f7-40691f0d16c4</xr:TypeId>
+				<xr:ValueId>9b4eff18-db52-41c7-a9f6-eb3285231a02</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ВидыДокументовФизическихЛиц</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>1868ac66-d029-4185-8039-392c3d6b89ee</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>
