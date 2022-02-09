@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<ExchangePlan uuid="4856369b-b1b4-4f07-8a54-58a5de0b47d2">
+		<InternalInfo>
+			<xr:ThisNode>a169994e-d47d-4139-8ab8-663d0763f07d</xr:ThisNode>
+			<xr:GeneratedType name="ExchangePlanObject.ОбменБГУ2ЕМП" category="Object">
+				<xr:TypeId>57167ae3-bf24-4a7c-bc40-7e13eafdd07f</xr:TypeId>
+				<xr:ValueId>e5756974-df3d-4783-800c-8516ae9c0eb0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExchangePlanRef.ОбменБГУ2ЕМП" category="Ref">
+				<xr:TypeId>a21d141e-3f3f-4453-b06b-9532a1abe368</xr:TypeId>
+				<xr:ValueId>0b9b01d3-f474-4c47-b1a1-5dfd51a4a218</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExchangePlanSelection.ОбменБГУ2ЕМП" category="Selection">
+				<xr:TypeId>d7456b5d-2fd1-4a60-90cd-ff5d1d7aea2b</xr:TypeId>
+				<xr:ValueId>4450b052-7de5-4b25-bde3-d594c286703b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExchangePlanList.ОбменБГУ2ЕМП" category="List">
+				<xr:TypeId>534c4ab1-97d4-4564-967e-3393191df1e4</xr:TypeId>
+				<xr:ValueId>dc06009d-8486-4f90-8d44-55cb17dbfa41</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExchangePlanManager.ОбменБГУ2ЕМП" category="Manager">
+				<xr:TypeId>9fb46be9-57cb-48a8-a171-5b1991b483b2</xr:TypeId>
+				<xr:ValueId>ec6f0b9a-5337-43f7-b0ca-e51196be33f6</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ОбменБГУ2ЕМП</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>a3727526-88b0-4246-8a58-349040bc288c</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</ExchangePlan>
+</MetaDataObject>
