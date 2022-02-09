@@ -14,6 +14,6 @@
 
 - описание функционала первой версии
 
-[Unreleased]: https://github.com/csm-ivanovo-ru/{repository-name}/compare/1.0.0...HEAD
-[1.0.1]: https://github.com/csm-ivanovo-ru/{repository-name}/compare/1.0.0...1.0.1
-[1.0.0]: https://github.com/csm-ivanovo-ru/{repository-name}/releases/tag/1.0.0
+[Unreleased]: https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects-EMP/compare/1.0.0...HEAD
+[1.0.1]: https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects-EMP/compare/1.0.0...1.0.1
+[1.0.0]: https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects-EMP/releases/tag/1.0.0
