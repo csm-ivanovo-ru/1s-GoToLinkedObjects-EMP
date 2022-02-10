@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>ФБУ "Ивановский ЦСМ"</Vendor>
-			<Version>1.0.2</Version>
+			<Version>1.1.0</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation>
 				<v8:item>
@@ -84,6 +84,7 @@
 			<Language>Русский</Language>
 			<Subsystem>СтандартныеПодсистемы</Subsystem>
 			<Subsystem>Администрирование</Subsystem>
+			<Subsystem>ППСО_РаботаССинхронизируемымиОбъектами</Subsystem>
 			<Role>АдминистраторСистемы</Role>
 			<Role>ВыполнениеСинхронизацииДанных</Role>
 			<Role>ПолныеПрава</Role>
@@ -93,6 +94,7 @@
 			<CommonModule>СтроковыеФункцииКлиентСервер</CommonModule>
 			<ExchangePlan>ОбменБГУ2ЕМП</ExchangePlan>
 			<CommonCommand>ППСО_ПерейтиКСопоставленномуОбъекту</CommonCommand>
+			<CommonCommand>ППСО_СопоставленныеОбъекты</CommonCommand>
 			<CommandGroup>СинхронизацияДанных</CommandGroup>
 			<Catalog>БанковскиеСчета</Catalog>
 			<Catalog>ВидыДокументовФизическихЛиц</Catalog>

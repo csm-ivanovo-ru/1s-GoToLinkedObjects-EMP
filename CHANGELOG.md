@@ -6,6 +6,28 @@
 Этот проект придерживается
 [![Semantic Versioning](https://img.shields.io/static/v1?label=Semantic%20Versioning&message=v2.0.0&color=green&logo=semver)](https://semver.org/lang/ru/spec/v2.0.0.html).
 
+## [Unreleased] Неопубликованные изменения (не вошедшие в релиз)
+
+## [1.1.0]
+
+### Добавлено
+
+- добавлена общая команда `ППСО_СопоставленныеОбъекты`,
+  выполняющая переход из формы синхронизируемых объектов
+  в форму списка регистра `СоответствияОбъектовИнформационныхБаз`
+  с отбором по текущему объекту и по первой синхронизируемой базе
+  в плане обмена `ОбменБГУ2ЕМП`
+  [#7](https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects/issues/7)
+
+### Изменено
+
+- дополнительно заимствована роль `ПолныеПрава`,
+  предоставлены права использования команды
+  `ППСО_ПерейтиКСопоставленномуОбъекту`
+- дополнительно заимствована роль `АдминистраторСистемы`,
+  предоставлены права использования команды
+  `ППСО_ПерейтиКСопоставленномуОбъекту`
+
 ## [1.0.2]
 
 ### Добавлено
@@ -16,6 +38,6 @@
   [#2](https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects/issues/2)
 - реквизиты доступа к ЕМП загружаются из регистра `НастройкиТранспортаОбменаДанными`
 
-[Unreleased]: https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects-EMP/compare/1.0.2...HEAD
-[1.0.3]: https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects-EMP/compare/1.0.2...1.0.3
-[1.0.0]: https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects-EMP/releases/tag/1.0.2
+[Unreleased]: https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects/compare/1.1.0...HEAD
+[1.1.0]: https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects/compare/1.0.2...1.1.0
+[1.0.2]: https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects-EMP/releases/tag/1.0.2
