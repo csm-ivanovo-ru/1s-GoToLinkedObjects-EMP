@@ -8,6 +8,26 @@
 
 ## [Unreleased] Неопубликованные изменения (не вошедшие в релиз)
 
+## [1.2.0]
+
+### Добавлено
+
+- в форму списка регистра `СоответствияОбъектовИнформационныхБаз` добавлена
+  команда перехода к сопоставленному объекту
+  [#8](https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects/issues/8)
+- добавлена форма записи регистра `СоответствияОбъектовИнформационныхБаз`,
+  в неё добавлена команда перехода, вычисление навигационной ссылки,
+  инструменты для замены значений
+  [#8](https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects/issues/8)
+
+### Изменено
+
+- изменена форма списка регистра `СоответствияОбъектовИнформационныхБаз`,
+  добавлена группировка по узлам информационных баз
+- в целях нормализации кода добавлен общий модуль `ППСО_ОбменДаннымиКлиентСервер`,
+  добавлены экспортные функции `ПолучитьПараметрНавигационнойСсылки`,
+  `ПолучитьНавигационнуюСсылкуСопоставленногоОбъектаПоРеквизитам`
+
 ## [1.1.0]
 
 ### Добавлено
@@ -38,6 +58,7 @@
   [#2](https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects/issues/2)
 - реквизиты доступа к ЕМП загружаются из регистра `НастройкиТранспортаОбменаДанными`
 
-[Unreleased]: https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects/compare/1.1.0...HEAD
-[1.1.0]: https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects/compare/1.0.2...1.1.0
+[Unreleased]: https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects-EMP/compare/1.2.0...HEAD
+[1.2.0]: https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects-EMP/compare/1.1.0...1.2.0
+[1.1.0]: https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects-EMP/compare/1.0.2...1.1.0
 [1.0.2]: https://github.com/csm-ivanovo-ru/1s-GoToLinkedObjects-EMP/releases/tag/1.0.2
