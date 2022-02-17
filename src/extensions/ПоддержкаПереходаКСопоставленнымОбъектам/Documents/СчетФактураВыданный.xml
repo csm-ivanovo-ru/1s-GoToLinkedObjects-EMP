@@ -25,11 +25,11 @@
 		</InternalInfo>
 		<Properties>
 			<Name>СчетФактураВыданный</Name>
-			<Comment/>
+			<Comment />
 			<ObjectBelonging>Adopted</ObjectBelonging>
 			<ExtendedConfigurationObject>0169f41a-cfba-44ec-b1a7-d4a7dc76a83e</ExtendedConfigurationObject>
-			<RegisterRecords/>
+			<RegisterRecords />
 		</Properties>
-		<ChildObjects/>
+		<ChildObjects />
 	</Document>
 </MetaDataObject>

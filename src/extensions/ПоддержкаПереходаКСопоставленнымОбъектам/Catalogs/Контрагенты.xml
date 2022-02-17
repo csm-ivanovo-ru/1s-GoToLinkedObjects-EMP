@@ -25,10 +25,10 @@
 		</InternalInfo>
 		<Properties>
 			<Name>Контрагенты</Name>
-			<Comment/>
+			<Comment />
 			<ObjectBelonging>Adopted</ObjectBelonging>
 			<ExtendedConfigurationObject>51b9a2d4-bd53-4f40-824e-e3b4e323279e</ExtendedConfigurationObject>
 		</Properties>
-		<ChildObjects/>
+		<ChildObjects />
 	</Catalog>
 </MetaDataObject>
