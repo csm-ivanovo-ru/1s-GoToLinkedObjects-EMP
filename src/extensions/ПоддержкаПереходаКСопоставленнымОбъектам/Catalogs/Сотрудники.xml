@@ -25,10 +25,10 @@
 		</InternalInfo>
 		<Properties>
 			<Name>Сотрудники</Name>
-			<Comment />
+			<Comment/>
 			<ObjectBelonging>Adopted</ObjectBelonging>
 			<ExtendedConfigurationObject>4ef34743-0626-41f0-800e-2a680154aa10</ExtendedConfigurationObject>
 		</Properties>
-		<ChildObjects />
+		<ChildObjects/>
 	</Catalog>
 </MetaDataObject>

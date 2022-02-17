@@ -18,8 +18,8 @@
 					<v8:content>Сведения об объектах,  сопоставленных данному, в других информационных базах</v8:content>
 				</v8:item>
 			</ToolTip>
-			<Picture />
-			<Shortcut />
+			<Picture/>
+			<Shortcut/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<CommandParameterType>
 				<v8:Type>cfg:CatalogRef.ВидыРабот</v8:Type>
