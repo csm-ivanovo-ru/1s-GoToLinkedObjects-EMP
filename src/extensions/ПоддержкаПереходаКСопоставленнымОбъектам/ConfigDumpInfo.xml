@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
 	<ConfigVersions>
 		<Metadata name="Catalog.БанковскиеСчета" id="ae93fbf2-3641-4b77-8669-decd71ea03d4" configVersion="35112ec222f5515e7033e15d9093fac0a90ae0ba" />
 		<Metadata name="Catalog.ВидыДокументовФизическихЛиц" id="e92ab424-6f63-49f8-86f8-471cbaffd96a" configVersion="90d25c8561c9009dc55a893430477742eead5e99" />
