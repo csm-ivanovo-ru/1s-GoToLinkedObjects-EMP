@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
 	<ConfigVersions>
 		<Metadata name="Catalog.БанковскиеСчета" id="ae93fbf2-3641-4b77-8669-decd71ea03d4" configVersion="35112ec222f5515e7033e15d9093fac0a90ae0ba" />
 		<Metadata name="Catalog.ВидыДокументовФизическихЛиц" id="e92ab424-6f63-49f8-86f8-471cbaffd96a" configVersion="90d25c8561c9009dc55a893430477742eead5e99" />
@@ -16,6 +16,8 @@
 		<Metadata name="CommandGroup.СинхронизацияДанных" id="83e5e30a-421d-4a71-b4c2-27ffd0ad2346" configVersion="a603de2539666a172231f70db23127f62c1eabe3" />
 		<Metadata name="CommonCommand.ППСО_ПерейтиКСопоставленномуОбъекту" id="38e0162a-55c2-4848-821a-a97c27500619" configVersion="181bae98b608e46834794caed9e5011825a311b2" />
 		<Metadata name="CommonCommand.ППСО_ПерейтиКСопоставленномуОбъекту.CommandModule" id="38e0162a-55c2-4848-821a-a97c27500619.2" configVersion="562c2606d276c3a973d078a9f13b21960da0213a" />
+		<Metadata name="CommonCommand.ППСО_ПредупрежденияСинхронизации" id="17996856-d235-4fb5-a6d7-fdea63161c2d" configVersion="c81ad14e910c61a4b12c74dcfc483b69074ea9de"/>
+		<Metadata name="CommonCommand.ППСО_ПредупрежденияСинхронизации.CommandModule" id="17996856-d235-4fb5-a6d7-fdea63161c2d.2" configVersion="8c6e1efbccdd95c61f4873c5e34b671c1b6f4f8d"/>
 		<Metadata name="CommonCommand.ППСО_СопоставленныеОбъекты" id="0f416a69-01f4-4b94-b578-87a777b02b71" configVersion="7b88d253d1c466ae2dfa49dff9a330058933ee88" />
 		<Metadata name="CommonCommand.ППСО_СопоставленныеОбъекты.CommandModule" id="0f416a69-01f4-4b94-b578-87a777b02b71.2" configVersion="f78dc3b2293b0f11dd6128ef6da86fcb771b2b3f" />
 		<Metadata name="CommonModule.ОбщегоНазначения" id="b3c7688c-52eb-42eb-8730-032132435816" configVersion="9e05d589e410a400a9de7a1c827263c1d6e42249" />
@@ -25,17 +27,26 @@
 		<Metadata name="CommonModule.ППСО_ОбменДаннымиКлиентСервер" id="e37f09b6-76f5-4f5b-9dff-d33d23a387d0" configVersion="a7f31eee57a0e70943ffeb709f6f8121331371af" />
 		<Metadata name="CommonModule.ППСО_ОбменДаннымиКлиентСервер.Module" id="e37f09b6-76f5-4f5b-9dff-d33d23a387d0.0" configVersion="4b72975e4ae2707f68e46558e3ea95042b67c720" />
 		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер" id="26525378-f32d-4435-818f-222a3a457b92" configVersion="5c1d6e53df986527367e6bb04fdb76bf817e9f4b" />
+		<Metadata name="CommonPicture.Комментарий" id="31335f66-13df-4cde-bf20-91a42f8833cd" configVersion="6f6913c7ced6a9603f34ffdb0b9f569bd9b2c215"/>
 		<Metadata name="Configuration.ПоддержкаПереходаКСопоставленнымОбъектам" id="240694d2-a897-4ac9-a290-80104238400f" configVersion="0c25ca1afc172bdf97a5b8575463e55b0321591f" />
+		<Metadata name="Constant.ИспользоватьСинхронизациюДанных" id="4d22fef7-7e1f-42bc-845f-cbc4c36e7376" configVersion="ae39f6b7b61a34038d61a04a23f930d71564a49a"/>
 		<Metadata name="Document.АктВыполненныхРабот" id="2e3c61d0-1278-4bff-907f-40717e3053f3" configVersion="4848a74aeed51314cc7b290a649839c7a197e42e" />
 		<Metadata name="Document.ОплатаСчетовПокупателемВручную" id="acfe1edb-ca66-4ec3-b117-2107376c383f" configVersion="6d36262ca7f88b90630fb2e659c06ed20e2818b2" />
 		<Metadata name="Document.СчетНаОплатуПокупателю" id="b1076358-1215-4840-8f7b-c2b352ac2d99" configVersion="08dde4bb65645126e0abf2e6b34aace9ccf24d61" />
 		<Metadata name="Document.СчетФактураВыданный" id="b81c56c3-bd82-47e8-89d8-9f8a99d5301a" configVersion="9f73bbe197a5b0ad9a71840524601c468d8f8c25" />
 		<Metadata name="ExchangePlan.ОбменБГУ2ЕМП" id="4856369b-b1b4-4f07-8a54-58a5de0b47d2" configVersion="6e8e56cbdd0d8768722cfd4db986977829e2f733" />
+		<Metadata name="FunctionalOption.ИспользоватьСинхронизациюДанных" id="00255204-93c8-4c07-8516-4825acc063cf" configVersion="d60faadd9872b4b1e4a481ca15306ab1dd8d26f2"/>
 		<Metadata name="InformationRegister.НастройкиТранспортаОбменаДанными" id="ab56904c-edfa-4b86-a254-21dff2f67e58" configVersion="92e34e9bdb0470ee1cbe73ac77f863471fb2bce3">
 			<Metadata name="InformationRegister.НастройкиТранспортаОбменаДанными.Resource.COMИмяИнформационнойБазыНаСервере1СПредприятия" id="627234f8-b383-4137-a1d0-722952097cbb" />
 			<Metadata name="InformationRegister.НастройкиТранспортаОбменаДанными.Dimension.Корреспондент" id="6acf9223-0a47-4251-bfae-a36f67da6d63" />
 			<Metadata name="InformationRegister.НастройкиТранспортаОбменаДанными.Resource.COMИмяСервера1СПредприятия" id="898ee0c6-3317-4b5a-a0e2-e3fbdb1096f9" />
 		</Metadata>
+		<Metadata name="InformationRegister.РезультатыОбменаДанными" id="0e37a190-6dfb-4846-b81d-183d5d323050" configVersion="d4ed6d571eeee1c62937751068813396a016f4e3">
+			<Metadata name="InformationRegister.РезультатыОбменаДанными.Dimension.УзелИнформационнойБазы" id="c5108605-e1a3-45ac-8da9-7d75e499dbcf"/>
+			<Metadata name="InformationRegister.РезультатыОбменаДанными.Dimension.ПроблемныйОбъект" id="e09f2ffc-c56d-41ab-8f7d-e861d94b3d4c"/>
+		</Metadata>
+		<Metadata name="InformationRegister.РезультатыОбменаДанными.Form.ПредупрежденияСинхронизаций" id="e0ac6d15-85dc-44b6-93d9-68da4d5a94f7" configVersion="d5ed23fe73eaf403491f5e2c0f6103febbb37f71"/>
+		<Metadata name="InformationRegister.РезультатыОбменаДанными.Form.ПредупрежденияСинхронизаций.Form" id="e0ac6d15-85dc-44b6-93d9-68da4d5a94f7.0" configVersion="fccdc51a97d9af4449ce024f4b46335f9410efc3"/>
 		<Metadata name="InformationRegister.СоответствияОбъектовИнформационныхБаз" id="ceedfaaf-2758-4c0e-b291-6c561b211a02" configVersion="231a4243b6d9f284c6d05dc3c7bde7c6a888997a">
 			<Metadata name="InformationRegister.СоответствияОбъектовИнформационныхБаз.Dimension.ТипИсточника" id="0e82110c-5ec5-4f8f-9f64-873402b404f7" />
 			<Metadata name="InformationRegister.СоответствияОбъектовИнформационныхБаз.Resource.УникальныйИдентификаторИсточникаСтрокой" id="1d65c92a-58db-486d-8d2a-3afbbea7d0d8" />
